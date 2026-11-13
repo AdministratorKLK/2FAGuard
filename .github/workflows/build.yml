@@ -1,4 +1,4 @@
-name: SonarQube #rerun
+name: SonarQube 
 on:
   push:
     branches:
